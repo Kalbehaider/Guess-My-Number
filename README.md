@@ -26,8 +26,8 @@ You can play the game online by visiting the [Number Guessing Game](https://kalb
 
 Include some screenshots or gifs of your game in action. For example:
 
-![Screenshot 1]([[Screenshots](https://raw.githubusercontent.com/Kalbehaider/Guess-My-Number/main/Screenshots/68747470733a2f2f7261772e6769746875622e636f6d2f4874657459696e4d696e2f47756573732d4d792d4e756d6265722f6d61737465722f73637265656e.png)))
-![Screenshot 2]([[screenshots/screenshot2.png](https://raw.github.com/HtetYinMin/Guess-My-Number/master/screenshot/02.png](https://raw.githubusercontent.com/Kalbehaider/Guess-My-Number/main/Screenshots/68747470733a2f2f7261772e6769746875622e636f6d2f4874657459696e4d696e2f47756573732d4d792d4e756d6265722f6d61737465722f73637265656e73686f742f30322e706e67.png)))
+![Screenshot 1](https://raw.githubusercontent.com/Kalbehaider/Guess-My-Number/main/Screenshots/68747470733a2f2f7261772e6769746875622e636f6d2f4874657459696e4d696e2f47756573732d4d792d4e756d6265722f6d61737465722f73637265656e.png)
+![Screenshot 2](https://raw.githubusercontent.com/Kalbehaider/Guess-My-Number/main/Screenshots/68747470733a2f2f7261772e6769746875622e636f6d2f4874657459696e4d696e2f47756573732d4d792d4e756d6265722f6d61737465722f73637265656e73686f742f30322e706e67.png)
 
 ## Acknowledgements
 
